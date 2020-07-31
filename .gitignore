@@ -1,3 +1,6 @@
+# Configuration
+config/database.config.js
+
 # Logs
 logs
 *.log
